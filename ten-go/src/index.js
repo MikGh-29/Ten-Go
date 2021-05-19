@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <p>Hello world!</p>
   </React.StrictMode>,
   document.getElementById('root')
 );
@@ -15,3 +15,15 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// Firebase SDK
+// <!-- The core Firebase JS SDK is always required and must be listed first -->
+// <script src="/__/firebase/8.6.1/firebase-app.js"></script>
+
+// <!-- TODO: Add SDKs for Firebase products that you want to use
+//      https://firebase.google.com/docs/web/setup#available-libraries -->
+// <script src="/__/firebase/8.6.1/firebase-analytics.js"></script>
+
+// <!-- Initialize Firebase -->
+// <script src="/__/firebase/init.js"></script>
