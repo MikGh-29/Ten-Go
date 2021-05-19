@@ -1,1 +1,1 @@
-# Ten-Go
+# This is an absolute piece of shit
